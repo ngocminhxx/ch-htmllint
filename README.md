@@ -27,7 +27,7 @@ require('htmllint')
 ```
 in your code, and doing an install with  
 ```
-npm install htmllint
+npm install ch-htmllint
 ```
 (Remember `--save-dev` if this is just for your development).  
 
